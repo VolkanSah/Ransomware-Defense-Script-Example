@@ -1,7 +1,6 @@
 # Ransomware Defense Script Example
-Example Python script that demonstrates a defense mechanism against a JavaScript ransomware code like [JADE-EDU](https://github.com/VolkanSah/JADE-edu)
-
-This repository contains a Python script that demonstrates a defense mechanism against JavaScript ransomware attacks. The script aims to decrypt encrypted files and protect against potential data loss caused by ransomware.
+This repository contains a Python script that demonstrates a defense mechanism against JavaScript ransomware attacks like [JADE-EDU](https://github.com/VolkanSah/JADE-edu)
+The script aims to decrypt encrypted files and protect against potential data loss caused by ransomware.
 
 ## Features
 
