@@ -1,4 +1,5 @@
 # Ransomware Defense Script Example
+###### Black Python Scripts for EDU by Volkan Sah - simple codings for 'Offensive Security' (updated 6/2023)
 This repository contains a Python script example that demonstrates a defense mechanism against JavaScript ransomware attacks like [JADE-EDU](https://github.com/VolkanSah/JADE-edu)
 The script aims to decrypt encrypted files and protect against potential data loss caused by ransomware.
 
@@ -46,3 +47,6 @@ Contributions to the project are welcome. If you have any suggestions, improveme
 
 ## License
 This project is copyright © [VolkanSah](https://github.com/volkansah) and is licensed under the [MIT LICENSE](LICENSE). You are free to use, modify, and distribute the code and assets, as long as the copyright notice and permission notice are preserved in all copies or substantial portions of the software."
+
+## Disclaimer
+This script is provided as-is, without any warranties or guarantees. The author cannot be held responsible for any damages, legal consequences, or misuse arising from the use of this script. Use it responsibly, respect the law, and always consider the potential impact on privacy, security, and the rights of others.
