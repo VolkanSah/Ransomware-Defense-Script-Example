@@ -29,8 +29,7 @@ def decrypt_files(encryption_key):
 # Display a message to the user
 def display_message():
     ransom_note = '''
-    Your files have been encrypted!
-    e.g go fuck off
+    Message to user
     '''
 
     print(ransom_note)
